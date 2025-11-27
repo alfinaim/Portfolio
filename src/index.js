@@ -5,8 +5,7 @@ import reportWebVitals from './reportWebVitals';
 import { BrowserRouter, HashRouter, Navigate, Route, Routes } from 'react-router-dom';
 import App from './App';
 import Home from './pages/Home';
-import Adventure from './pages/Adventure';
-import Story from './pages/Story';
+import Projects from './pages/Projects';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
@@ -17,8 +16,7 @@ root.render(
         {/* Redirect from "/" to "/learn" */}
         <Route index element={<Navigate to="home" />} />
         <Route path="/home" element={<Home />} />
-        <Route path="/adventure" element={<Adventure />} />
-        <Route path="/story" element={<Story />} />
+        <Route path="/projects" element={<Projects />} />
       </Routes>
     </HashRouter>
   </React.StrictMode>
