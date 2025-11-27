@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Typing-Adventure/static/css/main.61a9f4b4.css",
-    "main.js": "/Typing-Adventure/static/js/main.70255424.js",
-    "static/js/453.67f7e2f2.chunk.js": "/Typing-Adventure/static/js/453.67f7e2f2.chunk.js",
-    "static/media/logo.svg": "/Typing-Adventure/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/Typing-Adventure/index.html",
-    "main.61a9f4b4.css.map": "/Typing-Adventure/static/css/main.61a9f4b4.css.map",
-    "main.70255424.js.map": "/Typing-Adventure/static/js/main.70255424.js.map",
-    "453.67f7e2f2.chunk.js.map": "/Typing-Adventure/static/js/453.67f7e2f2.chunk.js.map"
+    "main.css": "/Portfolio/static/css/main.61a9f4b4.css",
+    "main.js": "/Portfolio/static/js/main.2816853d.js",
+    "static/js/453.67f7e2f2.chunk.js": "/Portfolio/static/js/453.67f7e2f2.chunk.js",
+    "static/media/logo.svg": "/Portfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Portfolio/index.html",
+    "main.61a9f4b4.css.map": "/Portfolio/static/css/main.61a9f4b4.css.map",
+    "main.2816853d.js.map": "/Portfolio/static/js/main.2816853d.js.map",
+    "453.67f7e2f2.chunk.js.map": "/Portfolio/static/js/453.67f7e2f2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.61a9f4b4.css",
-    "static/js/main.70255424.js"
+    "static/js/main.2816853d.js"
   ]
 }
